@@ -1,0 +1,5 @@
+{
+    "proxy": "http://baivong.thedevboard.com",
+    "port": 7777,
+    "cdn": "//unpkg.com/bubcloud"
+}
